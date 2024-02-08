@@ -9,7 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(250,243,232);
+  background-color: white;
 }
 
 html {
@@ -434,5 +434,5 @@ footer {
 
 footer p {
   text-align: center;
-  background-color: rgb(248, 217, 183);
+  background-color: white
 }
