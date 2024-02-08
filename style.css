@@ -37,7 +37,7 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  background-color: rgb(250,243,232);
+  background-color: white;
   height: 17vh;
 }
 
@@ -154,7 +154,7 @@ section {
   padding: 4vh;
   height: 96vh;
   margin: 0 10rem;
-  background-color: rgb(250,243,232);
+  background-color: white;
   box-sizing: border-box;
   min-height: fit-content;
 }
