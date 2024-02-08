@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgb(250,243,232);
 }
 
 html {
@@ -36,6 +37,7 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
+  background-color: rgb(250,243,232);
   height: 17vh;
 }
 
@@ -152,6 +154,7 @@ section {
   padding: 4vh;
   height: 96vh;
   margin: 0 10rem;
+  background-color: rgb(250,243,232);
   box-sizing: border-box;
   min-height: fit-content;
 }
@@ -425,10 +428,11 @@ article .icon {
 /* FOOTER SECTION */
 
 footer {
-    height: 26vh;
-    margin: 0 1rem;
+  height: 26vh;
+  margin: 0 1rem;
 }
 
 footer p {
-    text-align: center;
+  text-align: center;
+  background-color: rgb(248, 217, 183);
 }
